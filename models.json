@@ -1,0 +1,23 @@
+{
+  "version": "v1.0",
+  "models": [
+    {
+      "id": "base-q5_1",
+      "name": "Base (Cepat & Ringan)",
+      "filename": "ggml-base-q5_1.bin",
+      "size_bytes": 59707625,
+      "sha256": "422f1ae452ade6f30a004d7e5c6a43195e4433bc370bf23fac9cc591f01a8898",
+      "download_url": "https://github.com/anugrahai/whisper-offline-models/releases/download/v1.0/ggml-base-q5_1.bin",
+      "description": "Cepat di HP, hemat RAM, cocok untuk dikte harian."
+    },
+    {
+      "id": "small-q5_1",
+      "name": "Small (Akurat Bahasa Indonesia)",
+      "filename": "ggml-small-q5_1.bin",
+      "size_bytes": 190085487,
+      "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb",
+      "download_url": "https://github.com/anugrahai/whisper-offline-models/releases/download/v1.0/ggml-small-q5_1.bin",
+      "description": "Akurasi Bahasa Indonesia dan tanda baca terbaik."
+    }
+  ]
+}
